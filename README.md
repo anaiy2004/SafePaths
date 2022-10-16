@@ -7,4 +7,4 @@ Front End: Flutter, Dart
 
 Back End: Node.js, Express.js, AWS Lambda, CockroachDB
 
-AI / Data Pipelike: Python, BeautifulSoup, Cohere.AI, Flask
+AI/ML and Data Pipeline: Python, BeautifulSoup, Cohere.AI, Flask
