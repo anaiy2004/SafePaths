@@ -1,4 +1,4 @@
-# SafePaths
+# SafePaths Mobile App
 This is our submission for CalHacks 9.0.
 
 Authors: Anaiy Somalwar, Anthony Tafoya, Ashok Devireddy, Shrinandan Narayanan.
